@@ -1,7 +1,7 @@
 0x00. AirBnB clone - The console
 
 Introduction
-The AirBnB clone project is a team procect to build a clone of AirBnB
+The AirBnB clone project is a team project to build a clone of AirBnB
 
 Background Context
 
